@@ -1,5 +1,4 @@
 import React from 'react';
-import './CanvasWrapper.scss';
 
 const CanvasWrapper: React.FC = () => {
   return (

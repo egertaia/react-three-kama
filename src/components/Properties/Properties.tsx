@@ -1,5 +1,4 @@
 import React from 'react';
-import './Properties.scss';
 
 const Properties: React.FC = () => {
   return (
